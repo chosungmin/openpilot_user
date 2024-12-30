@@ -7,7 +7,7 @@ KisaAutoResume:1
 KisaVariableCruise:1
 KisaLaneChangeSpeed:20
 KisaAutoLaneChangeDelay:0
-KisaSteerAngleCorrection:0
+KisaSteerAngleCorrection:19
 PutPrebuiltOn:1
 LdwsCarFix:0
 LateralControlMethod:3
