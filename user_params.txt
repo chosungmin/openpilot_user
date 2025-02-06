@@ -5,9 +5,9 @@ KisaUIVolumeBoost:0
 KisaEnableLogger:0
 KisaAutoResume:1
 KisaVariableCruise:1
-KisaLaneChangeSpeed:20
+KisaLaneChangeSpeed:60
 KisaAutoLaneChangeDelay:0
-KisaSteerAngleCorrection:19
+KisaSteerAngleCorrection:22
 PutPrebuiltOn:1
 LdwsCarFix:0
 LateralControlMethod:3
@@ -31,10 +31,10 @@ TorqueFriction:10
 TorqueUseAngle:1
 TorqueMaxLatAccel:28
 TorqueAngDeadZone:10
-CameraOffsetAdj:0
-PathOffsetAdj:0
+CameraOffsetAdj:-10
+PathOffsetAdj:-10
 SteerRatioAdj:1584
-SteerActuatorDelayAdj:10
+SteerActuatorDelayAdj:30
 SteerLimitTimerAdj:40
 TireStiffnessFactorAdj:100
 SteerMaxAdj:384
@@ -47,8 +47,8 @@ DebugUi2:0
 DebugUi3:0
 LongLogDisplay:0
 KisaBlindSpotDetect:1
-KisaMaxAngleLimit:80
-KisaSteerMethod:1
+KisaMaxAngleLimit:90
+KisaSteerMethod:0
 KisaMaxSteeringAngle:90
 KisaMaxDriverAngleWait:0.002
 KisaMaxSteerAngleWait:0.001
@@ -85,7 +85,7 @@ LCTimingFactor60:60
 LCTimingFactor80:80
 LCTimingFactor110:100
 LCTimingFactorEnable:0
-KisaUIBrightnessOff:10
+KisaUIBrightnessOff:50
 AutoEnableSpeed:5
 SafetyCamDecelDistGain:0
 KisaLiveTunePanelEnable:0
